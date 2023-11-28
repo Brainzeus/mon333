@@ -1,0 +1,16 @@
+"pools": [
+{
+"hostname": "de.zephyr.herominers.com",
+"port":1123,
+"ssl": false,
+"allowSelfSignedSSL": false,
+"share": 100,
+"username": "ZEPHYR2yLZGJV6e7zKJqx58fuoGSy4bedfp9WFhCZv6HJHXVWdzVapGPkaAHKUSdAxhWgJFwz7sDj5p2Rdvv7zcaW9ziHDL1oHW2p",
+"password": "ZZeus",
+"keepAlive": true,
+"algo": "rx/0",
+"blob_type": "cryptonote_zeph",
+"default": true
+}
+],
+
